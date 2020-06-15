@@ -7,7 +7,9 @@ This repository is for showing how Git and GitHub work together
 Sample website with plenty of files for demos
 
 ##Deployment
-
+git training
 
 ##Introduction
-This is exampleto show the difference,
+This is exampleto show the difference
+
+##How to contibute
