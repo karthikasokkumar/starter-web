@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work together. Adding a line,
-more chnages from myfeature branch too.
+This repository is for showing how Git and GitHub work together. Adding a line  updattin; ikfdslmdlmvl
 
 ## Purpose
 
@@ -17,4 +16,4 @@ This is exampleto show the difference
 Please fork this repo
 ###Copyright
 
-2020 Git.Training . All rights resetved.
+2020 Git.Training . All rights resetved
