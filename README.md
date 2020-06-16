@@ -12,4 +12,8 @@ git training
 ##Introduction
 This is exampleto show the difference
 
-##How to contibute
+##How To Contibute
+
+###Copyright
+
+2020 Git.Training
