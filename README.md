@@ -17,4 +17,4 @@ This is exampleto show the difference
 Please fork this repo
 ###Copyright
 
-2020 Git.Training
+2020 Git.Training . All rights resetved.
