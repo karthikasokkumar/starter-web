@@ -13,7 +13,7 @@ git training
 This is exampleto show the difference
 
 ##How To Contibute
-
+Please fork this repo
 ###Copyright
 
 2020 Git.Training
